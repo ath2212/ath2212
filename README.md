@@ -22,11 +22,12 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at PICT, Pun
 
 ## Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/56021889/148019062-2700436e-2765-46bd-aaac-5241c4d478b5.jpg" />
-<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/56021889/148018586-0c407039-d43d-4759-b54c-7acf20267692.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/56021889/148019127-a543807d-a4c1-433d-83d4-804b5887ef06.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/56021889/148018586-0c407039-d43d-4759-b54c-7acf20267692.png" />
+<img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/56021889/148020215-4d621921-fd54-45cb-ace8-c94a6e7692df.png" />
+<img align="left" alt="Keras" width="26px" src="https://user-images.githubusercontent.com/56021889/148020151-53b33ef3-34f1-4209-8d7e-6e84ed81a519.png" />
 <img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/56021889/148019199-ff30f559-85c1-47c6-b2dc-8a9e83ac4bfc.png" />
 <img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/56021889/148019236-4abdf51c-91a2-4a98-a0b2-b0af786c9d3c.png" />
-
 
 <!--
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ath2212&show_icons=true&hide_border=true" />
