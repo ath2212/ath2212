@@ -27,6 +27,10 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at PICT, Pun
 <img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/56021889/148019199-ff30f559-85c1-47c6-b2dc-8a9e83ac4bfc.png" />
 <img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/56021889/148019236-4abdf51c-91a2-4a98-a0b2-b0af786c9d3c.png" />
 
+----
+
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ath2212&show_icons=true&hide_border=true" />
+
 <br />
 
 [AUS_Segmentation]: https://github.com/ath2212/Abdominal-Ultrasound-Segmentation
