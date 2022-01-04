@@ -20,8 +20,8 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at PICT, Pun
 - 🔭 I’m currently working on [segmenting organs from Abdominal Ultrasound Scans][AUS_Segmentation].
 - 📫 Contact me at puranik.atharva36@gmail.com 
 
-##Languages and Tools
-![<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/56021889/148018586-0c407039-d43d-4759-b54c-7acf20267692.png" />]
+## Languages and Tools
+<img align="left" alt="Tensorflow" width="26px" src="https://user-images.githubusercontent.com/56021889/148018586-0c407039-d43d-4759-b54c-7acf20267692.png" />
 
 <br />
 
